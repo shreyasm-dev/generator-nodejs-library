@@ -1,6 +1,6 @@
 {
   "name": "generator-nodejs-library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Quickly scaffold a library project with ESLint, Mocha/Jest, and more",
   "homepage": "",
   "author": {
